@@ -1,0 +1,3 @@
+#!/bin/bash
+ls && ./7-file && ls -l && cat -e \\*0-mac_and_cheese 7-file 7-file~ Makefile
+Best School
